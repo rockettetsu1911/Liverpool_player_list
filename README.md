@@ -10,7 +10,7 @@
 好きなチームのリバプールに所属した選手が分かるアプリを作成しようと思いました。
 
 ## DEMO。
-https://gyazo.com/e2624bba65d0ca9138a53f890255c711
+![alt text](https://gyazo.com/e2624bba65d0ca9138a53f890255c711)
 ## 実装予定の内容
 ### DB設計　
 
